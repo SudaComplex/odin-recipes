@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, "Times New Roman", sans-serif
+}
+
+h3, h4 {
+    color: blue;
+}
+
+li, p {
+    font-weight: bold;
+}
